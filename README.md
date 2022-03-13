@@ -1,10 +1,10 @@
-![1_gtpSDMihuUEl2a_xGe322Q](https://user-images.githubusercontent.com/34839860/158079471-c73f49ef-14a0-4d5a-bc12-345427241c40.png)
+![MERN stack](https://user-images.githubusercontent.com/34839860/158079827-3187045a-115d-4557-ad46-44b589465556.png)
 
 
 #### I’m Shah a MERN stack Developer with 3 years of IT and hands on experience in website development building web applications using JavaScript, NodeJS, ExpressJS, ReactJS, MongoDB, Bootstrap, MaterialUI, HTML and CSS.
 - Expertise in ReactJS class and functional components. 
 - Experience in ECMAScript 6 -Knowledge Real time chat application 
-- Able to quickly learn and master new technologies 
+- Able to quickly learn and master new technologies like MERN stack
 - Knowledgeable about the Software Development Lifecycle and Agile methods 
 - High-energy, confident professional with passion for technology 
 - Flexible and capable of balancing multiple projects at a time in a fast-paced environment 
@@ -18,7 +18,7 @@
 
 > Strong development skills including RESTful
 
-> Comfortable working with MERN (MongoDB, Express, ReactJS, NodeJS) stack.
+> Comfortable working with MERN stack (MongoDB, Express, ReactJS, NodeJS) stack.
 
 > Experience using NoSql databases such as
 
