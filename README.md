@@ -14,14 +14,23 @@
 - Able to work smoothly even under pressure. 
 
 #### Here are some skills I have:
-- Web development
-- Strong development skills including RESTful
-- Comfortable working with MERN (MongoDB, Express, ReactJS, NodeJS) stack.
-- Experience using NoSql databases such as
-- MongoDB and MySQL.
-- Experienced in React JS and used Redux for
-- State management.
-- Implemented token-based authentication with
-- JWT.
-- Payment Integration.
-- Good experience in using various version controls like GIT and SVN
+> Web development
+
+> Strong development skills including RESTful
+
+> Comfortable working with MERN (MongoDB, Express, ReactJS, NodeJS) stack.
+
+> Experience using NoSql databases such as
+
+> MongoDB and MySQL.
+
+> Experienced in React JS and used Redux for
+
+> State management.
+
+> Implemented token-based authentication with
+> JWT.
+
+> Payment Integration.
+
+> Good experience in using various version controls like GIT and SVN
