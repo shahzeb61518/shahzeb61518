@@ -2,18 +2,6 @@
 
 
 #### I’m Shah a MERN stack Developer with 3 years of IT and hands on experience in website development building web applications using JavaScript, NodeJS, ExpressJS, ReactJS, MongoDB, Bootstrap, MaterialUI, HTML and CSS.
-- Expertise in ReactJS class and functional components. 
-- Experience in ECMAScript 6 -Knowledge Real time chat application 
-- Able to quickly learn and master new technologies like MERN stack
-- Knowledgeable about the Software Development Lifecycle and Agile methods 
-- High-energy, confident professional with passion for technology 
-- Flexible and capable of balancing multiple projects at a time in a fast-paced environment 
-- Good in managing time and organize tasks 
-- Ability to comprehend ideas and integrate them into desired results 
-- Successful working in both team and self-directed environments with good communication, analytical and interpersonal skills 
-- Able to work smoothly even under pressure. 
-
-#### Here are some skills I have:
 > Web development
 
 > Strong development skills including RESTful
