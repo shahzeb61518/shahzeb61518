@@ -12,9 +12,7 @@
 
 > MongoDB and MySQL.
 
-> Experienced in React JS and used Redux for
-
-> State management.
+> Experienced in React JS and used Redux for state management.
 
 > Implemented token-based authentication with
 > JWT.
