@@ -1,5 +1,6 @@
 ![MERN stack](https://user-images.githubusercontent.com/34839860/158079827-3187045a-115d-4557-ad46-44b589465556.png)
 
+![Solcore.co](Solcore.co)
 
 #### I’m Shah a MERN stack Developer with 3 years of IT and hands on experience in website development building web applications using JavaScript, NodeJS, ExpressJS, ReactJS, MongoDB, Bootstrap, MaterialUI, HTML and CSS.
 > Web development
